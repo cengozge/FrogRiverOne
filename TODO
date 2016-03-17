@@ -1,0 +1,2 @@
+Yaprakların pozisyonlarının hepsi aynı olduğunda -1 return etmeli
+(parametre gönderilen array [1,1,1,1,1] olması gibi)
